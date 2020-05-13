@@ -1,3 +1,3 @@
 # kudos-test
 
-version: 10.10.pub
+version: 11.11.priv
